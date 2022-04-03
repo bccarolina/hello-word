@@ -1,2 +1,2 @@
 # hello-word
- primeiro repositório do curso de git e github
+ Repositório para o curso de git e github
